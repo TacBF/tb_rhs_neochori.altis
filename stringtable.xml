@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Bastam_Push">
+
+	<Key ID="STR_TB_missionTitle_TB_Neochori">
+		<Original>Neochori</Original>
+		<English>Neochori</English>
+		<German>Neochori</German>
+		<Italian>Neochori</Italian>
+		<Spanish>Neochori</Spanish>
+		<French>Neochori</French>
+		<Czech>Neochori</Czech>
+		<Russian>Neochori</Russian>
+		<Polish>Neochori</Polish>
+		<Hungarian>Neochori</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Neochori">
+		<Original>TacBF A&amp;S[M-40]: Neochori</Original>
+		<English>TacBF A&amp;S[M-40]: Neochori</English>
+		<German>TacBF A&amp;S[M-40]: Neochori</German>
+		<Italian>TacBF A&amp;S[M-40]: Neochori</Italian>
+		<Spanish>TacBF A&amp;S[M-40]: Neochori</Spanish>
+		<French>TacBF A&amp;S[M-40]: Neochori</French>
+		<Czech>TacBF A&amp;S[M-40]: Neochori</Czech>
+		<Russian>TacBF A&amp;S[M-40]: Neochori</Russian>
+		<Polish>TacBF A&amp;S[M-40]: Neochori</Polish>
+		<Hungarian>TacBF A&amp;S[M-40]: Neochori</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
